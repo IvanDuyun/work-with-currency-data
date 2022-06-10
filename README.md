@@ -38,7 +38,10 @@
     • Данные о котировках в режиме реального времени извлекаются с помощью investpy.
     • Для записи данных по таймеру используется функция repeated_timer().
 Пример работы вызова функции list_currency_print():
+
 ![image](https://user-images.githubusercontent.com/68858558/173066304-00a9bdb3-b6c1-4d93-a06d-7611847e3399.png)
+
 Пример работы вызова функции min_max_currency_print():
+
 ![image](https://user-images.githubusercontent.com/68858558/173066727-15127f5a-ad59-4f4c-abef-fd3f0acecc53.png)
 
